@@ -9,7 +9,7 @@ To be able to run this file properly you need to ensure that you have the datase
 
 There is some commented code at the beginning of the file that automatically downloads and extracts the dataset if you so desire.
 
-Make sure the dataset is inside the folder name "UCI HAR Dataset". Inside this folder you should have the train and test folders as well as the other files. The script won't work otherwise!
+Make sure the dataset is inside a folder named "UCI HAR Dataset". Inside this folder you should have the train and test folders as well as the other files. The script won't work otherwise!
 
 This code file is divided into 5 separate steps that will be explained below.
 
